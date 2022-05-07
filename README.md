@@ -15,8 +15,8 @@ E8さんの[精選100](https://qiita.com/e869120/items/eb50fdaece12be418faa#2-3-
 |No.|問題名|提出|
 |----|----|----|
 |1|[How many ways?](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_7_B&lang=ja)|AC|
-|2|[B-105](https://atcoder.jp/contests/abc106/tasks/abc106_b)|$002|
-|3|[ATCoder](https://atcoder.jp/contests/abc122/tasks/abc122_b)|$003|
+|2|[B-105](https://atcoder.jp/contests/abc106/tasks/abc106_b)|AC|
+|3|[ATCoder](https://atcoder.jp/contests/abc122/tasks/abc122_b)|AC|
 |4|[カラオケ](https://atcoder.jp/contests/pakencamp-2019-day3/tasks/pakencamp_2019_day3_c)|$004|
 
 
