@@ -17,7 +17,7 @@ E8さんの[精選100](https://qiita.com/e869120/items/eb50fdaece12be418faa#2-3-
 |1|[How many ways?](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_7_B&lang=ja)|AC|
 |2|[B-105](https://atcoder.jp/contests/abc106/tasks/abc106_b)|AC|
 |3|[ATCoder](https://atcoder.jp/contests/abc122/tasks/abc122_b)|AC|
-|4|[カラオケ](https://atcoder.jp/contests/pakencamp-2019-day3/tasks/pakencamp_2019_day3_c)|$004|
+|4|[カラオケ](https://atcoder.jp/contests/pakencamp-2019-day3/tasks/pakencamp_2019_day3_c)|AC|
 
 
 
@@ -34,7 +34,7 @@ E8さんの[精選100](https://qiita.com/e869120/items/eb50fdaece12be418faa#2-3-
 # bit全探索
 |No.|問題名|提出|
 |----|----|----|
-|10|[Exhaustive Search](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_5_A&lang=ja)|o$010|
+|10|[Exhaustive Search](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_5_A&lang=ja)|$010|
 |11|[Switches](https://atcoder.jp/contests/abc128/tasks/abc128_c)|$011|
 |12|[派閥](https://atcoder.jp/contests/abc002/tasks/abc002_4)|$012|
 |13|[おせんべい](https://atcoder.jp/contests/joi2008yo/tasks/joi2008yo_e)|$013|
@@ -53,7 +53,7 @@ E8さんの[精選100](https://qiita.com/e869120/items/eb50fdaece12be418faa#2-3-
 # 二分探索
 |No.|問題名|提出|
 |----|----|----|
-|18|[Binary Search](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_4_B&lang=ja)|$018|
+|18|[Binary Search](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_4_B&lang=ja)|AC|
 |19|[ピザ](https://www.ioi-jp.org/joi/2008/2009-ho-prob_and_sol/2009-ho.pdf#page=4)|$019|
 |20|[Snuke Festival](https://atcoder.jp/contests/abc077/tasks/arc084_a)|$020|
 |21|[射撃王](https://atcoder.jp/contests/abc023/tasks/abc023_d)|$021|
