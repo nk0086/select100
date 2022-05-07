@@ -1,18 +1,11 @@
-# sheet.md
-以下のチェックシートの提出欄が空欄のものです.
-
-# e-sheet.md
-提出欄に($+問題番号)をいれて、コマンドで編集しやすくしました.
-
-
 # 競プロ：過去問精選100
-E8さんの[精選100](https://qiita.com/e869120/items/eb50fdaece12be418faa#2-3-%E5%88%86%E9%87%8E%E5%88%A5%E5%88%9D%E4%B8%AD%E7%B4%9A%E8%80%85%E3%81%8C%E8%A7%A3%E3%81%8F%E3%81%B9%E3%81%8D%E9%81%8E%E5%8E%BB%E5%95%8F%E7%B2%BE%E9%81%B8-100-%E5%95%8F)をRustで解くやつです.
+E8さんの[精選100](https://qiita.com/e869120/items/eb50fdaece12be418faa#2-3-%E5%88%86%E9%87%8E%E5%88%A5%E5%88%9D%E4%B8%AD%E7%B4%9A%E8%80%85%E3%81%8C%E8%A7%A3%E3%81%8F%E3%81%B9%E3%81%8D%E9%81%8E%E5%8E%BB%E5%95%8F%E7%B2%BE%E9%81%B8-100-%E5%95%8F)をRustで解くやつです$008|
 
 
 # 全探索：全列挙
 |No.|問題名|提出|
 |----|----|----|
-|1|[How many ways?](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_7_B&lang=ja)|AC|
+|1|[How many ways?](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_7_B&lang=ja)|$001|
 |2|[B-105](https://atcoder.jp/contests/abc106/tasks/abc106_b)|$002|
 |3|[ATCoder](https://atcoder.jp/contests/abc122/tasks/abc122_b)|$003|
 |4|[カラオケ](https://atcoder.jp/contests/pakencamp-2019-day3/tasks/pakencamp_2019_day3_c)|$004|
